@@ -26,5 +26,3 @@
   - 临床表现_Transposed.xlsx：用于数据分析的表格
   - 药方_Transposed.xlsx：用于数据分析的表格
   - 治疗方法_Transposed.xlsx：用于数据分析的表格
-
-优化后的Readme.md文件使得每个部分更加清晰和易于理解。
