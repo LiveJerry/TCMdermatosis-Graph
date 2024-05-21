@@ -2,7 +2,7 @@
 这个仓库包含了一个真菌性中医皮肤病知识图谱及辅助诊断系统的项目。
 
 ## 结果展示：
-![image](Model.png)
+![image](model.png)
 ![image](graph.png)
 
 ## 文件清单及其说明：
