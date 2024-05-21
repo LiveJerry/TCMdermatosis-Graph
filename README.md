@@ -3,9 +3,7 @@
 
 ## 结果展示：
 ![image](Model.png)
-运行系统图
 ![image](graph.png)
-知识图谱
 
 ## 文件清单及其说明：
 
